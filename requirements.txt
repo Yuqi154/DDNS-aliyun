@@ -1,0 +1,3 @@
+requests
+alibabacloud_tea_openapi
+alibabacloud_alidns20150109==2.0.2
